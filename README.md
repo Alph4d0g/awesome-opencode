@@ -39,6 +39,8 @@
 |[opencode-skills](https://github.com/malhashemi/opencode-skills)|![GitHub Repo stars](https://badgen.net/github/stars/malhashemi/opencode-skills)|Plugin for managing and organizing opencode skills and capabilities.|
 |[openskills](https://github.com/numman-ali/openskills)|![GitHub Repo stars](https://badgen.net/github/stars/numman-ali/openskills)|Alternative skills management plugin for opencode with enhanced features.|
 |[opencode-smart-title](https://github.com/Tarquinen/opencode-smart-title)|![GitHub Repo stars](https://badgen.net/github/stars/Tarquinen/opencode-smart-title)|Auto-generates meaningful session titles using AI.|
+|[opencode-background](https://github.com/zenobi-us/opencode-background)|![GitHub Repo stars](https://badgen.net/github/stars/zenobi-us/opencode-background)|Background process management plugin for opencode.|
+|[opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning)|![GitHub Repo stars](https://badgen.net/github/stars/Tarquinen/opencode-dynamic-context-pruning)|Plugin that optimizes token usage by pruning obsolete tool outputs from conversation context.|
 
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
 
