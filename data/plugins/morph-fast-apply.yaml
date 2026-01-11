@@ -1,0 +1,4 @@
+name: Morph Fast Apply
+repo: https://github.com/JRedeker/opencode-morph-fast-apply
+description: 10,500+ tokens/sec code editing
+full_description: Integrates Morph's Fast Apply API for faster code editing with lazy edit markers and unified diff output.

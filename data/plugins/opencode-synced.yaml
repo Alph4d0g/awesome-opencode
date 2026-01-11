@@ -1,0 +1,4 @@
+name: Opencode Synced
+repo: https://github.com/iHildy/opencode-synced
+description: Sync configs across machines
+full_description: Enables syncing global opencode configurations across machines with public/private visibility options.

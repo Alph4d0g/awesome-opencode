@@ -1,0 +1,4 @@
+name: Micode
+repo: https://github.com/vtemian/micode
+description: Brainstorm-Plan-Implement workflow
+full_description: Structured workflow with session continuity, subagent orchestration, git worktree isolation, and AST-aware tools.

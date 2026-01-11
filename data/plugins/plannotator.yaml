@@ -1,0 +1,4 @@
+name: Plannotator
+repo: https://github.com/backnotprop/plannotator
+description: Interactive plan review UI
+full_description: Plan review UI with visual annotation, private/offline sharing, and Obsidian/Bear integration.

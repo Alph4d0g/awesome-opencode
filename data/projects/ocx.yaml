@@ -1,0 +1,4 @@
+name: OCX
+repo: https://github.com/kdcokenny/ocx
+description: OpenCode package manager
+full_description: The missing package manager for OpenCode extensions - ShadCN model with Ghost Mode.
